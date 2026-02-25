@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>AI 日报播客</title>
+    <description>每日 AI 领域重要新闻自动总结播客</description>
+    <language>zh-cn</language>
+    <link />
+    <lastBuildDate>Wed, 25 Feb 2026 19:27:33 +0800</lastBuildDate>
+    <generator>AI NewsDaily Podcast Pipeline</generator>
+    <ns0:author>AI News Bot</ns0:author>
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:category text="Technology" />
+    <item>
+      <title>AI 日报 - 2026-02-25</title>
+      <description>## AI 新闻摘要 - 2026-02-25
+
+1. **[高] 马斯克新公司以1100美元tokens为起始价重新润色Next.js**
+   只要1100美元tokens，一周重写 Next.js！通过微调现有的机器学习模型，在一周内即可获得改进的 Next.js 版本。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-8
+
+2. **[高] Anthropic面临五角大楼的压力**
+   五角大楼向 Anthropic 下达最后通牒，要求解除AI限定措施或面临罚款，导致 AI 领域紧张局势升级。
+   🔗 https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/
+
+3. **[中] Meta大举投资AMD芯片**
+   Meta 花费数十亿美元采购 AMD AI 芯片，目标为实现“个人超级智能”，加速数据中心扩展。
+   🔗 https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/
+
+4. **[中] 八年积淀，中国人工智能迎来自主的世界级学术主场**
+   第一届WAICA学术会议即将于7月与世界人工智能大会同期举办，将讨论重塑规则、协同评审等学术改进举措。
+   🔗 https://36kr.com/p/3698417555976071?f=rss
+
+5. **[中] 国内AI企业开源模型，拉近与国际前沿技术差距**
+   阿里云、京东等多款大模型在GitHub开源，加速中国大模型生态的普及与创新。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-7
+
+6. **[中] Uber员工打造了一款CEO AI化身**
+   Uber 的员工利用 AI 中打造 CEO Dara Khosrowshahi 的化身来练习自己的商业提案。
+   🔗 https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/
+
+7. **[低] 新Relic推出AI代理平台和OpenTelemetry工具**
+   新Relic为企业提供更有观测功能的工具，帮助企业创建并管理AI代理，整合更丰富的数据流。
+   🔗 https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/
+
+8. **[低] Nimble获得4700万美元，让AI代理访问实时网络数据**
+   Nimble帮助AI代理实时抓取、验证、清理并结构化数据，让这些数据可查询如数据表一般。
+   🔗 https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/
+
+9. **[低] Google在Opal中增加了自动工作流功能**
+   Google计划通过引入新的代理人来让用户用文本提示创建自动化工作流，类似于用自然语言拼接应用程序。
+   🔗 https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/
+
+10. **[低] 赛普勒夫巨额投资AI音乐工具**
+    基于Google AI音乐工具，赛普勒夫发布的新歌曲 "Back in Abu Dhabi" 展现了高质量AI音乐生成能力。
+   🔗 https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/
+
+11. **[低] Canva收购动画和营销初创公司**
+    Canva通过整合动画制作和更精细的营销测量工具，旨在进一步加强其营销解决方案。
+   🔗 https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/</description>
+      <pubDate>Wed, 25 Feb 2026 19:27:33 +0800</pubDate>
+      <guid isPermaLink="false">ainewsdaily-2026-02-25</guid>
+      <enclosure url="https://drive.google.com/uc?id=1BEjtLzXlaY92nj2fcl60joiSjATTTUzW&amp;export=download" length="44011257" type="audio/wav" />
+      <itunes:duration />
+      <content:encoded>&lt;![CDATA[## AI 新闻摘要 - 2026-02-25
+
+1. **[高] 马斯克新公司以1100美元tokens为起始价重新润色Next.js**
+   只要1100美元tokens，一周重写 Next.js！通过微调现有的机器学习模型，在一周内即可获得改进的 Next.js 版本。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-8
+
+2. **[高] Anthropic面临五角大楼的压力**
+   五角大楼向 Anthropic 下达最后通牒，要求解除AI限定措施或面临罚款，导致 AI 领域紧张局势升级。
+   🔗 https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/
+
+3. **[中] Meta大举投资AMD芯片**
+   Meta 花费数十亿美元采购 AMD AI 芯片，目标为实现“个人超级智能”，加速数据中心扩展。
+   🔗 https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/
+
+4. **[中] 八年积淀，中国人工智能迎来自主的世界级学术主场**
+   第一届WAICA学术会议即将于7月与世界人工智能大会同期举办，将讨论重塑规则、协同评审等学术改进举措。
+   🔗 https://36kr.com/p/3698417555976071?f=rss
+
+5. **[中] 国内AI企业开源模型，拉近与国际前沿技术差距**
+   阿里云、京东等多款大模型在GitHub开源，加速中国大模型生态的普及与创新。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-7
+
+6. **[中] Uber员工打造了一款CEO AI化身**
+   Uber 的员工利用 AI 中打造 CEO Dara Khosrowshahi 的化身来练习自己的商业提案。
+   🔗 https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/
+
+7. **[低] 新Relic推出AI代理平台和OpenTelemetry工具**
+   新Relic为企业提供更有观测功能的工具，帮助企业创建并管理AI代理，整合更丰富的数据流。
+   🔗 https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/
+
+8. **[低] Nimble获得4700万美元，让AI代理访问实时网络数据**
+   Nimble帮助AI代理实时抓取、验证、清理并结构化数据，让这些数据可查询如数据表一般。
+   🔗 https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/
+
+9. **[低] Google在Opal中增加了自动工作流功能**
+   Google计划通过引入新的代理人来让用户用文本提示创建自动化工作流，类似于用自然语言拼接应用程序。
+   🔗 https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/
+
+10. **[低] 赛普勒夫巨额投资AI音乐工具**
+    基于Google AI音乐工具，赛普勒夫发布的新歌曲 "Back in Abu Dhabi" 展现了高质量AI音乐生成能力。
+   🔗 https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/
+
+11. **[低] Canva收购动画和营销初创公司**
+    Canva通过整合动画制作和更精细的营销测量工具，旨在进一步加强其营销解决方案。
+   🔗 https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/]]&gt;</content:encoded>
+    </item>
+  </channel>
+</rss>
