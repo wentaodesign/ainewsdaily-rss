@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>AI 日报播客</title>
     <link>https://wentaodesign.github.io/ainewsdaily-rss</link>
     <description>每日 AI 领域重要新闻自动总结播客</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Feb 2026 19:56:57 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:58:28 +0800</lastBuildDate>
     <generator>AI NewsDaily Podcast Pipeline</generator>
-    <ns0:type>episodic</ns0:type>
-    <ns0:author>AI News Bot</ns0:author>
-    <ns0:summary>每日 AI 领域重要新闻自动总结播客</ns0:summary>
-    <ns0:explicit>false</ns0:explicit>
-    <ns0:image href="https://wentaodesign.github.io/ainewsdaily-rss/cover.png" />
-    <ns0:category text="Technology" />
-    <ns0:owner>
-      <ns0:name>AI News Bot</ns0:name>
-      <ns0:email>ainewsdaily@example.com</ns0:email>
-    </ns0:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>AI News Bot</itunes:author>
+    <itunes:summary>每日 AI 领域重要新闻自动总结播客</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://wentaodesign.github.io/ainewsdaily-rss/cover.png" />
+    <itunes:category text="Technology" />
+    <itunes:owner>
+      <itunes:name>AI News Bot</itunes:name>
+      <itunes:email>ainewsdaily@example.com</itunes:email>
+    </itunes:owner>
     <image>
       <url>https://wentaodesign.github.io/ainewsdaily-rss/cover.png</url>
       <title>AI 日报播客</title>
@@ -69,7 +69,7 @@
 11. **[低] Canva收购动画和营销初创公司**
     Canva通过整合动画制作和更精细的营销测量工具，旨在进一步加强其营销解决方案。
    🔗 https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/</description>
-      <pubDate>Wed, 25 Feb 2026 19:56:57 +0800</pubDate>
+      <pubDate>Wed, 25 Feb 2026 19:58:28 +0800</pubDate>
       <guid isPermaLink="false">ainewsdaily-2026-02-25</guid>
       <enclosure url="https://drive.google.com/uc?id=1BEjtLzXlaY92nj2fcl60joiSjATTTUzW&amp;export=download" length="44011257" type="audio/mpeg" />
       <itunes:duration>45:50</itunes:duration>
