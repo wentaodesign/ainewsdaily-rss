@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>AI 日报播客</title>
     <description>每日 AI 领域重要新闻自动总结播客</description>
     <language>zh-cn</language>
     <link />
-    <lastBuildDate>Wed, 25 Feb 2026 19:27:33 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:52:37 +0800</lastBuildDate>
     <generator>AI NewsDaily Podcast Pipeline</generator>
-    <ns0:author>AI News Bot</ns0:author>
-    <ns0:explicit>false</ns0:explicit>
-    <ns0:category text="Technology" />
+    <itunes:author>AI News Bot</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology" />
     <item>
       <title>AI 日报 - 2026-02-25</title>
       <description>## AI 新闻摘要 - 2026-02-25
@@ -57,7 +57,7 @@
 11. **[低] Canva收购动画和营销初创公司**
     Canva通过整合动画制作和更精细的营销测量工具，旨在进一步加强其营销解决方案。
    🔗 https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/</description>
-      <pubDate>Wed, 25 Feb 2026 19:27:33 +0800</pubDate>
+      <pubDate>Wed, 25 Feb 2026 19:52:37 +0800</pubDate>
       <guid isPermaLink="false">ainewsdaily-2026-02-25</guid>
       <enclosure url="https://drive.google.com/uc?id=1BEjtLzXlaY92nj2fcl60joiSjATTTUzW&amp;export=download" length="44011257" type="audio/wav" />
       <itunes:duration />
