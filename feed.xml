@@ -5,7 +5,7 @@
     <link>https://wentaodesign.github.io/ainewsdaily-rss</link>
     <description>每日 AI 领域重要新闻自动总结播客</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Feb 2026 15:31:45 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 16:21:50 +0800</lastBuildDate>
     <generator>AI NewsDaily Podcast Pipeline</generator>
     <itunes:type>episodic</itunes:type>
     <itunes:author>AI News Bot</itunes:author>
@@ -23,110 +23,325 @@
       <link>https://wentaodesign.github.io/ainewsdaily-rss</link>
     </image>
     <item>
+      <title>AI 日报 - 2026-02-24</title>
+      <description>## AI 新闻摘要 - 2026-02-24
+
+1. **[高] Anthropic 员工股份出售预计将达到 60 亿美元**
+   AI 公司 Anthropic 启动股票出售计划，允许工作至少一年的现任和前任员工出售股票，最高可达 60 亿美元。
+   🔗 https://36kr.com/newsflashes/3696963359403655?f=rss
+
+2. **[高] 何小鹏内部信：要实现全球首个高阶人形机器人量产**
+   小鹏汽车CEO何小鹏表示，全新一代 IRON 机器人将在2026年底启动量产，目标成为全球首个规模量产的高阶人形机器人。
+   🔗 https://36kr.com/newsflashes/3696897479372420?f=rss
+
+3. **[高] 小米集团董事长兼CEO雷军：未来五年小米将重点攻坚芯片、AI、操作系统等底层核心技术**
+   小米计划未来五年集中资源攻克芯片、AI、操作系统等关键底层技术，致力于成为全球领先的硬核科技公司。
+   🔗 https://36kr.com/newsflashes/3696964057001858?f=rss
+
+4. **[高] 微软研究登上 Nature：把人类文明刻在玻璃里保存一万年**
+   微软研究团队在《Nature》期刊发表论文，展示了将人类文明信息刻在玻璃中以实现万年长期保存的技术。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-24-9
+
+5. **[中] 湖北：加大集成电路、工业母机、具身智能等新兴产业和未来产业投资布局力度**
+   湖北省将加大对集成电路、工业母机、具身智能等新兴产业和未来产业的投资布局，推动区域经济发展。
+   🔗 https://36kr.com/newsflashes/3696937388420744?f=rss
+
+6. **[中] 微软研究登上Nature：把人类文明刻在玻璃里保存一万年**
+   微软研究团队在《Nature》期刊发表论文，展示了将人类文明信息刻在玻璃中以实现万年长期保存的技术。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-24-9
+
+7. **[中] 228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了**
+   FARS 模型在 228 小时内产出了 100 篇论文，消耗了 114 亿 Token，展示了其惊人的生成能力。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-24-4
+
+8. **[中] 千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿**
+   千寻智能成功完成近 20 亿人民币融资，获得多家顶级资本支持，公司估值突破百亿人民币。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-24-3
+
+9. **[中] 宇树发布四足机器人Unitree As2**
+   宇树科技发布新款四足机器人Unitree As2，具备高扭矩、长续航和开放的二次开发生态。
+   🔗 https://36kr.com/newsflashes/3697083303063170?f=rss
+
+10. **[中] 多模态DeepResearch，成了！**
+    多模态研究项目 DeepResearch 取得成功，预示着在多模态 AI 领域的重要进展。
+    🔗 https://www.jiqizhixin.com/articles/2026-02-24-6
+
+11. **[低] 又快又省？仅5%参数、训练快4倍！ArcFlow用「非线性」魔法实现FLUX/Qwen推理40倍加速**
+    ArcFlow 模型通过优化参数和采用非线性方法，实现了 FLUX/Qwen 推理速度的 40 倍加速。
+    🔗 https://www.jiqizhixin.com/articles/2026-02-24-8
+
+12. **[低] AI 模型烧掉的 Token，对应多少 GDP？AI 的经济贡献现在有数了**
+    一项研究试图量化 AI 模型消耗的 Token 数量与 GDP 贡献之间的关系。
+    🔗 https://www.jiqizhixin.com/articles/2026-02-23-7</description>
+      <pubDate>Tue, 24 Feb 2026 08:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ainewsdaily-2026-02-24</guid>
+      <enclosure url="https://wentaodesign.github.io/ainewsdaily-rss/episodes/2026-02-24.mp3" length="37427527" type="audio/mpeg" />
+      <itunes:duration>38:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>## AI 新闻摘要 - 2026-02-24
+
+1. **[高] Anthropic 员工股份出售预计将达到 60 亿美元**
+   AI 公司 Anthropic 启动股票出售计划，允许工作至少一年的现任和前任员工出售股票，最高可达 60 亿美元。
+   🔗 https://36kr.com/newsflashes/3696963359403655?f=rss
+
+2. **[高] 何小鹏内部信：要实现全球首个高阶人形机器人量产**
+   小鹏汽车CEO何小鹏表示，全新一代 IRON 机器人将在2026</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>## AI 新闻摘要 - 2026-02-24
+
+1. **[高] Anthropic 员工股份出售预计将达到 60 亿美元**
+   AI 公司 Anthropic 启动股票出售计划，允许工作至少一年的现任和前任员工出售股票，最高可达 60 亿美元。
+   🔗 https://36kr.com/newsflashes/3696963359403655?f=rss
+
+2. **[高] 何小鹏内部信：要实现全球首个高阶人形机器人量产**
+   小鹏汽车CEO何小鹏表示，全新一代 IRON 机器人将在2026年底启动量产，目标成为全球首个规模量产的高阶人形机器人。
+   🔗 https://36kr.com/newsflashes/3696897479372420?f=rss
+
+3. **[高] 小米集团董事长兼CEO雷军：未来五年小米将重点攻坚芯片、AI、操作系统等底层核心技术**
+   小米计划未来五年集中资源攻克芯片、AI、操作系统等关键底层技术，致力于成为全球领先的硬核科技公司。
+   🔗 https://36kr.com/newsflashes/3696964057001858?f=rss
+
+4. **[高] 微软研究登上 Nature：把人类文明刻在玻璃里保存一万年**
+   微软研究团队在《Nature》期刊发表论文，展示了将人类文明信息刻在玻璃中以实现万年长期保存的技术。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-24-9
+
+5. **[中] 湖北：加大集成电路、工业母机、具身智能等新兴产业和未来产业投资布局力度**
+   湖北省将加大对集成电路、工业母机、具身智能等新兴产业和未来产业的投资布局，推动区域经济发展。
+   🔗 https://36kr.com/newsflashes/3696937388420744?f=rss
+
+6. **[中] 微软研究登上Nature：把人类文明刻在玻璃里保存一万年**
+   微软研究团队在《Nature》期刊发表论文，展示了将人类文明信息刻在玻璃中以实现万年长期保存的技术。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-24-9
+
+7. **[中] 228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了**
+   FARS 模型在 228 小时内产出了 100 篇论文，消耗了 114 亿 Token，展示了其惊人的生成能力。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-24-4
+
+8. **[中] 千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿**
+   千寻智能成功完成近 20 亿人民币融资，获得多家顶级资本支持，公司估值突破百亿人民币。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-24-3
+
+9. **[中] 宇树发布四足机器人Unitree As2**
+   宇树科技发布新款四足机器人Unitree As2，具备高扭矩、长续航和开放的二次开发生态。
+   🔗 https://36kr.com/newsflashes/3697083303063170?f=rss
+
+10. **[中] 多模态DeepResearch，成了！**
+    多模态研究项目 DeepResearch 取得成功，预示着在多模态 AI 领域的重要进展。
+    🔗 https://www.jiqizhixin.com/articles/2026-02-24-6
+
+11. **[低] 又快又省？仅5%参数、训练快4倍！ArcFlow用「非线性」魔法实现FLUX/Qwen推理40倍加速**
+    ArcFlow 模型通过优化参数和采用非线性方法，实现了 FLUX/Qwen 推理速度的 40 倍加速。
+    🔗 https://www.jiqizhixin.com/articles/2026-02-24-8
+
+12. **[低] AI 模型烧掉的 Token，对应多少 GDP？AI 的经济贡献现在有数了**
+    一项研究试图量化 AI 模型消耗的 Token 数量与 GDP 贡献之间的关系。
+    🔗 https://www.jiqizhixin.com/articles/2026-02-23-7</content:encoded>
+    </item>
+    <item>
+      <title>AI 日报 - 2026-02-25</title>
+      <description>## AI 新闻摘要 - 2026-02-25
+
+1. **[高] 马斯克新公司以1100美元tokens为起始价重新润色Next.js**
+   只要1100美元tokens，一周重写 Next.js！通过微调现有的机器学习模型，在一周内即可获得改进的 Next.js 版本。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-8
+
+2. **[高] Anthropic面临五角大楼的压力**
+   五角大楼向 Anthropic 下达最后通牒，要求解除AI限定措施或面临罚款，导致 AI 领域紧张局势升级。
+   🔗 https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/
+
+3. **[中] Meta大举投资AMD芯片**
+   Meta 花费数十亿美元采购 AMD AI 芯片，目标为实现“个人超级智能”，加速数据中心扩展。
+   🔗 https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/
+
+4. **[中] 八年积淀，中国人工智能迎来自主的世界级学术主场**
+   第一届WAICA学术会议即将于7月与世界人工智能大会同期举办，将讨论重塑规则、协同评审等学术改进举措。
+   🔗 https://36kr.com/p/3698417555976071?f=rss
+
+5. **[中] 国内AI企业开源模型，拉近与国际前沿技术差距**
+   阿里云、京东等多款大模型在GitHub开源，加速中国大模型生态的普及与创新。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-7
+
+6. **[中] Uber员工打造了一款CEO AI化身**
+   Uber 的员工利用 AI 中打造 CEO Dara Khosrowshahi 的化身来练习自己的商业提案。
+   🔗 https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/
+
+7. **[低] 新Relic推出AI代理平台和OpenTelemetry工具**
+   新Relic为企业提供更有观测功能的工具，帮助企业创建并管理AI代理，整合更丰富的数据流。
+   🔗 https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/
+
+8. **[低] Nimble获得4700万美元，让AI代理访问实时网络数据**
+   Nimble帮助AI代理实时抓取、验证、清理并结构化数据，让这些数据可查询如数据表一般。
+   🔗 https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/
+
+9. **[低] Google在Opal中增加了自动工作流功能**
+   Google计划通过引入新的代理人来让用户用文本提示创建自动化工作流，类似于用自然语言拼接应用程序。
+   🔗 https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/
+
+10. **[低] 赛普勒夫巨额投资AI音乐工具**
+    基于Google AI音乐工具，赛普勒夫发布的新歌曲 "Back in Abu Dhabi" 展现了高质量AI音乐生成能力。
+   🔗 https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/
+
+11. **[低] Canva收购动画和营销初创公司**
+    Canva通过整合动画制作和更精细的营销测量工具，旨在进一步加强其营销解决方案。
+   🔗 https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/</description>
+      <pubDate>Wed, 25 Feb 2026 08:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ainewsdaily-2026-02-25</guid>
+      <enclosure url="https://wentaodesign.github.io/ainewsdaily-rss/episodes/2026-02-25.mp3" length="44011257" type="audio/mpeg" />
+      <itunes:duration>45:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>## AI 新闻摘要 - 2026-02-25
+
+1. **[高] 马斯克新公司以1100美元tokens为起始价重新润色Next.js**
+   只要1100美元tokens，一周重写 Next.js！通过微调现有的机器学习模型，在一周内即可获得改进的 Next.js 版本。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-8
+
+2. **[高] Anthropic面临五角大楼的压力**
+   五角大楼向 Anthropic 下达最后通牒，要求解除</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>## AI 新闻摘要 - 2026-02-25
+
+1. **[高] 马斯克新公司以1100美元tokens为起始价重新润色Next.js**
+   只要1100美元tokens，一周重写 Next.js！通过微调现有的机器学习模型，在一周内即可获得改进的 Next.js 版本。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-8
+
+2. **[高] Anthropic面临五角大楼的压力**
+   五角大楼向 Anthropic 下达最后通牒，要求解除AI限定措施或面临罚款，导致 AI 领域紧张局势升级。
+   🔗 https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/
+
+3. **[中] Meta大举投资AMD芯片**
+   Meta 花费数十亿美元采购 AMD AI 芯片，目标为实现“个人超级智能”，加速数据中心扩展。
+   🔗 https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/
+
+4. **[中] 八年积淀，中国人工智能迎来自主的世界级学术主场**
+   第一届WAICA学术会议即将于7月与世界人工智能大会同期举办，将讨论重塑规则、协同评审等学术改进举措。
+   🔗 https://36kr.com/p/3698417555976071?f=rss
+
+5. **[中] 国内AI企业开源模型，拉近与国际前沿技术差距**
+   阿里云、京东等多款大模型在GitHub开源，加速中国大模型生态的普及与创新。
+   🔗 https://www.jiqizhixin.com/articles/2026-02-25-7
+
+6. **[中] Uber员工打造了一款CEO AI化身**
+   Uber 的员工利用 AI 中打造 CEO Dara Khosrowshahi 的化身来练习自己的商业提案。
+   🔗 https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/
+
+7. **[低] 新Relic推出AI代理平台和OpenTelemetry工具**
+   新Relic为企业提供更有观测功能的工具，帮助企业创建并管理AI代理，整合更丰富的数据流。
+   🔗 https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/
+
+8. **[低] Nimble获得4700万美元，让AI代理访问实时网络数据**
+   Nimble帮助AI代理实时抓取、验证、清理并结构化数据，让这些数据可查询如数据表一般。
+   🔗 https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/
+
+9. **[低] Google在Opal中增加了自动工作流功能**
+   Google计划通过引入新的代理人来让用户用文本提示创建自动化工作流，类似于用自然语言拼接应用程序。
+   🔗 https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/
+
+10. **[低] 赛普勒夫巨额投资AI音乐工具**
+    基于Google AI音乐工具，赛普勒夫发布的新歌曲 "Back in Abu Dhabi" 展现了高质量AI音乐生成能力。
+   🔗 https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/
+
+11. **[低] Canva收购动画和营销初创公司**
+    Canva通过整合动画制作和更精细的营销测量工具，旨在进一步加强其营销解决方案。
+   🔗 https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/</content:encoded>
+    </item>
+    <item>
       <title>AI 日报 - 2026-02-26</title>
       <description>## AI 新闻摘要 - 2026-02-26
 
-1. **[高] Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse**
-   Salesforce reported a solid year-end earnings and then pulled out all the stops to ward. off more talk of the death of its business to AI.
-   🔗 https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/
+1. **[高] 三星Galaxy S26系列进一步强化与Gemini的系统级整合**
+   用户可通过长按侧键在系统层面唤醒Gemini，并将其作为“代办任务”的入口，由Gemini自动完成多步骤操作。
+   🔗 https://36kr.com/newsflashes/3699822106832770?f=rss
 
-2. **[高] AI能写COBOL代码，砸崩IBM股价，单日蒸发310亿美元，创26年最惨纪录**
-   遭遇裁员、亏损、市值蒸发等多重打击，更令人意外的是，IBM股价在这一新闻的影响下更是被砸崩。
-   🔗 https://www.jiqizhixin.com/articles/2026-02-25-3
+2. **[高] Intrinsic机器人软件子公司回归谷歌**
+   Alphabet正在将其机器人软件子公司Intrinsic重新划归至另一子公司谷歌旗下。
+   🔗 https://36kr.com/newsflashes/3699755274071680?f=rss
 
-3. **[高] 遭谷歌制裁，OpenClaw创始人怒怼：Anthropic会先打电话，你们直接封号**
-   OpenClaw创始人彼得·施耐博格对 Anthropic 的应对措施表示嘲笑。
-   🔗 https://www.jiqizhixin.com/articles/2026-02-25-10
-
-4. **[中] Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders**
-   Anthropic 购买了计算机使用 AI 起家的 Vercept，显示了 AI 市场的强大整合。
-   🔗 https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/
-
-5. **[中] 大语言模型真的会「推理」吗？一项系统性研究梳理 LLM 的结构性推理失败**
-   学术界对大语言模型的可信度提出了质疑，进行深入研究和其他模型进行对比。
-   🔗 https://www.jiqizhixin.com/articles/2026-02-25-6
-
-6. **[中] ICLR 2026 | 把视频扩散模型压到4bit，还能接近满血效果？ QVGen让「超低比特视频生成量化」真正可用**
-   通过创新算法实现了低比特模型在保持画质的同时进行高效压缩。
-   🔗 https://www.jiqizhixin.com/articles/2026-02-25-9
-
-7. **[中] Gushwork bets on AI search for customer leads — and early results are emerging**
-   Gushwork 利用 AI 搜索工具收获早期客户成功案例。
-   🔗 https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/
-
-8. **[中] Nvidia has another record quarter amid record capex spends**
-   Nvidia CEO 提到了对“全球对命名实体的认可”。
+3. **[高] Nvidia CEO: 全球对AI算力需求呈指数级增长**
+   Nvidia CEO 黄仁勋表示，全球对AI算力的需求呈完全指数级增长。
    🔗 https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/
 
-9. **[中] 公众对 AI 基础设施的反对情绪正在升温**
-   随着数据中心的建设增加，公众反对情绪引发了政策变化，包括新的建设禁令。
+4. **[高] Gushwork 在种子轮融资中筹集了 900 万美元**
+   Gushwork 使用AI搜索工具如ChatGPT获得了早期客户牵引。
+   🔗 https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/
+
+5. **[中] OAICOO表示AI助手不会取代软件工具**
+   Nvidia CEO 黄仁勋表示，AI助手将成为智能软件，能够代表我们使用现有工具。
+   🔗 https://36kr.com/newsflashes/3699751109193353?f=rss
+
+6. **[中] 美元基金Nebulon Ventures完成首关**
+   一个专注于生成式AI应用层早期投资的美元基金完成数千万美元首关。
+   🔗 https://36kr.com/newsflashes/3699747329732232?f=rss
+
+7. **[中] Anthropic收购计算机使用AI创业公司Vercept**
+   Vercept开发了复杂的代理工具，包括一个能像人一样的在应用程序中完成任务的计算机使用代理。
+   🔗 https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/
+
+8. **[中] Salesforce CEO: 这不是我们首次遭遇SaaSpocalypse**
+   Salesforce CEO 马克·贝尼奥表示，他会采取措施来击败这种说法。
+   🔗 https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/
+
+9. **[中] 各国政府抵抗AI基础设施**
+   公众对数据中心热潮的反对导致了各种严厉政策——包括新建筑禁令。
    🔗 https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/
 
-10. **[中] 微软创始人比尔·盖茨就其与爱泼斯坦关系道歉**
-    盖茨基金会首次就盖茨与爱泼斯坦的关系道歉，坚称自己未参与犯罪。
-    🔗 https://36kr.com/p/3699365546667912?f=rss
-
-11. **[中] 中建系密集接手多座万达广场**
-    中建完成对常州新北万达广场的接手，标志着其在商业地产领域的新拓展。
-    🔗 https://36kr.com/p/3698430014762633?f=rss
-</description>
-      <pubDate>Thu, 26 Feb 2026 15:31:45 +0800</pubDate>
+10. **[中] 三星进一步强化Gemini系统整合进行自动化多步骤任务操作**
+    Gemini可以在Android系统上自动执行一些包含乘车共享请求或杂货或食品配送的多步任务。
+    🔗 https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/</description>
+      <pubDate>Thu, 26 Feb 2026 08:00:00 +0800</pubDate>
       <guid isPermaLink="false">ainewsdaily-2026-02-26</guid>
-      <enclosure url="https://drive.google.com/uc?id=17VncwDe1x79-MMWFChy33BPGGm55P2n7&amp;export=download" length="34755936" type="audio/mpeg" />
-      <itunes:duration>36:12</itunes:duration>
+      <enclosure url="https://drive.google.com/uc?id=17VncwDe1x79-MMWFChy33BPGGm55P2n7&amp;export=download" length="20566695" type="audio/mpeg" />
+      <itunes:duration>21:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:summary>## AI 新闻摘要 - 2026-02-26
 
-1. **[高] Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse**
-   Salesforce reported a solid year-end earnings and then pulled out all the stops to ward. off more talk of the death of its business to AI.
-   🔗 https://</itunes:summary>
+1. **[高] 三星Galaxy S26系列进一步强化与Gemini的系统级整合**
+   用户可通过长按侧键在系统层面唤醒Gemini，并将其作为“代办任务”的入口，由Gemini自动完成多步骤操作。
+   🔗 https://36kr.com/newsflashes/3699822106832770?f=rss
+
+2. **[高] Intrinsic机器人软件子公司回归谷歌**
+   Alphabet正在将其机器人软件子公司Intrinsic重新划归</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <content:encoded>## AI 新闻摘要 - 2026-02-26
 
-1. **[高] Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse**
-   Salesforce reported a solid year-end earnings and then pulled out all the stops to ward. off more talk of the death of its business to AI.
-   🔗 https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/
+1. **[高] 三星Galaxy S26系列进一步强化与Gemini的系统级整合**
+   用户可通过长按侧键在系统层面唤醒Gemini，并将其作为“代办任务”的入口，由Gemini自动完成多步骤操作。
+   🔗 https://36kr.com/newsflashes/3699822106832770?f=rss
 
-2. **[高] AI能写COBOL代码，砸崩IBM股价，单日蒸发310亿美元，创26年最惨纪录**
-   遭遇裁员、亏损、市值蒸发等多重打击，更令人意外的是，IBM股价在这一新闻的影响下更是被砸崩。
-   🔗 https://www.jiqizhixin.com/articles/2026-02-25-3
+2. **[高] Intrinsic机器人软件子公司回归谷歌**
+   Alphabet正在将其机器人软件子公司Intrinsic重新划归至另一子公司谷歌旗下。
+   🔗 https://36kr.com/newsflashes/3699755274071680?f=rss
 
-3. **[高] 遭谷歌制裁，OpenClaw创始人怒怼：Anthropic会先打电话，你们直接封号**
-   OpenClaw创始人彼得·施耐博格对 Anthropic 的应对措施表示嘲笑。
-   🔗 https://www.jiqizhixin.com/articles/2026-02-25-10
-
-4. **[中] Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders**
-   Anthropic 购买了计算机使用 AI 起家的 Vercept，显示了 AI 市场的强大整合。
-   🔗 https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/
-
-5. **[中] 大语言模型真的会「推理」吗？一项系统性研究梳理 LLM 的结构性推理失败**
-   学术界对大语言模型的可信度提出了质疑，进行深入研究和其他模型进行对比。
-   🔗 https://www.jiqizhixin.com/articles/2026-02-25-6
-
-6. **[中] ICLR 2026 | 把视频扩散模型压到4bit，还能接近满血效果？ QVGen让「超低比特视频生成量化」真正可用**
-   通过创新算法实现了低比特模型在保持画质的同时进行高效压缩。
-   🔗 https://www.jiqizhixin.com/articles/2026-02-25-9
-
-7. **[中] Gushwork bets on AI search for customer leads — and early results are emerging**
-   Gushwork 利用 AI 搜索工具收获早期客户成功案例。
-   🔗 https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/
-
-8. **[中] Nvidia has another record quarter amid record capex spends**
-   Nvidia CEO 提到了对“全球对命名实体的认可”。
+3. **[高] Nvidia CEO: 全球对AI算力需求呈指数级增长**
+   Nvidia CEO 黄仁勋表示，全球对AI算力的需求呈完全指数级增长。
    🔗 https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/
 
-9. **[中] 公众对 AI 基础设施的反对情绪正在升温**
-   随着数据中心的建设增加，公众反对情绪引发了政策变化，包括新的建设禁令。
+4. **[高] Gushwork 在种子轮融资中筹集了 900 万美元**
+   Gushwork 使用AI搜索工具如ChatGPT获得了早期客户牵引。
+   🔗 https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/
+
+5. **[中] OAICOO表示AI助手不会取代软件工具**
+   Nvidia CEO 黄仁勋表示，AI助手将成为智能软件，能够代表我们使用现有工具。
+   🔗 https://36kr.com/newsflashes/3699751109193353?f=rss
+
+6. **[中] 美元基金Nebulon Ventures完成首关**
+   一个专注于生成式AI应用层早期投资的美元基金完成数千万美元首关。
+   🔗 https://36kr.com/newsflashes/3699747329732232?f=rss
+
+7. **[中] Anthropic收购计算机使用AI创业公司Vercept**
+   Vercept开发了复杂的代理工具，包括一个能像人一样的在应用程序中完成任务的计算机使用代理。
+   🔗 https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/
+
+8. **[中] Salesforce CEO: 这不是我们首次遭遇SaaSpocalypse**
+   Salesforce CEO 马克·贝尼奥表示，他会采取措施来击败这种说法。
+   🔗 https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/
+
+9. **[中] 各国政府抵抗AI基础设施**
+   公众对数据中心热潮的反对导致了各种严厉政策——包括新建筑禁令。
    🔗 https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/
 
-10. **[中] 微软创始人比尔·盖茨就其与爱泼斯坦关系道歉**
-    盖茨基金会首次就盖茨与爱泼斯坦的关系道歉，坚称自己未参与犯罪。
-    🔗 https://36kr.com/p/3699365546667912?f=rss
-
-11. **[中] 中建系密集接手多座万达广场**
-    中建完成对常州新北万达广场的接手，标志着其在商业地产领域的新拓展。
-    🔗 https://36kr.com/p/3698430014762633?f=rss
-</content:encoded>
+10. **[中] 三星进一步强化Gemini系统整合进行自动化多步骤任务操作**
+    Gemini可以在Android系统上自动执行一些包含乘车共享请求或杂货或食品配送的多步任务。
+    🔗 https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/</content:encoded>
     </item>
   </channel>
 </rss>
